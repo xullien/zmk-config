@@ -8,7 +8,7 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/keys.h>
 
-&left_encoder { resolution = <20>; };
+&left_encoder { resolution = <50>; };
 / {
     keymap {
         compatible = "zmk,keymap";
